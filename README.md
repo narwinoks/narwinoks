@@ -40,10 +40,7 @@ class About extends Me
             Javascript::class,
             Laravel::class,
             Vuejs::class,
-            Angular::class,
-            ReactNative::class,
             TailwindCss::class,
-            Aws::class,
         ];
     }
 
