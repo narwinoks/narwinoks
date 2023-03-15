@@ -27,8 +27,8 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Qquicker',
-                'position' => 'Founder'         
+                'company' => 'Cyberolmpus',
+                'position' => 'Junior Laravel Developer'         
             ]
         ];
     }
@@ -41,12 +41,14 @@ class About extends Me
             Laravel::class,
             Vuejs::class,
             TailwindCss::class,
+            ReactJs::class,
+            Node Js::class
         ];
     }
 
     public function getFutureGoal(): string
     {
-        return 'To contribute to open source.';
+        return 'Gaining expertise in specific programming languages and technologies .';
     }
 }
 ```
