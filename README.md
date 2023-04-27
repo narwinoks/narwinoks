@@ -39,10 +39,10 @@ class About extends Me
             Php::class,
             Javascript::class,
             Laravel::class,
-            Vuejs::class,
             TailwindCss::class,
             ReactJs::class,
-            Node Js::class
+            Node Js::class,
+            Express Js:class
         ];
     }
 
