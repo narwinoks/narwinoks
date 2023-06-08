@@ -12,7 +12,7 @@
 I'm Winarno, a 18 years old web developer from Indonesia.
 
 ## Learn
-- 👨‍💻 JavaScript, PHP, Java
+- 👨‍💻 JavaScript, PHP
 - 👁️ bootstrap, CSS, Tailwindcss
 - 💽 MySQL,PostgreSql,Mongodb
 
