@@ -9,7 +9,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ## Hey! 👋 
-I'm Winarno, a 18 years old web developer from Indonesia.
+I'm Winarno, a 19 years old web developer from Indonesia.
 
 ## Learn
 - 👨‍💻 JavaScript, PHP
